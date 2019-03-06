@@ -1,0 +1,14 @@
+﻿body{
+  color: red;
+  
+}
+p{
+  border: 1px solid green;
+}
+.description{
+  padding: 20px;
+}
+a:hover{
+  color: cyan;
+  padding: 20px;
+}
